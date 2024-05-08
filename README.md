@@ -1,5 +1,4 @@
-# Creating the README content again with the updated license and GitHub profile URL
-readme_content = """
+
 # AI Text Generator Client
 
 The AI Text Generator Client is a C# library designed to facilitate seamless integration with OpenAI's powerful language models. This client handles all the interactions with the OpenAI API, allowing users to easily generate text based on a variety of parameters.
