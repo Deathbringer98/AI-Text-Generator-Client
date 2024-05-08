@@ -55,8 +55,3 @@ Distributed under the GNU License. See LICENSE for more information.
 
 Contact
 Project Link: https://github.com/Deathbringer98/AI-Text-Generator-Client """
-
-Save the content to a text file
-readme_file_path = "/mnt/data/README.txt" with open(readme_file_path, "w") as file: file.write(readme_content)
-
-readme_file_path
